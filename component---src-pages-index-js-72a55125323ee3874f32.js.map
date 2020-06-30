@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Home"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-72a55125323ee3874f32.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>Site under Construction!!</div>\n}\n"],"sourceRoot":""}
